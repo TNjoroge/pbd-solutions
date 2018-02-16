@@ -1,0 +1,9 @@
+ls // list directories
+cd // change directoires
+cd .. // move backwards to prev.dir.
+mkdir //make directory
+touch // create empty file
+geidt //run gedit in terminal
+rm<file> // remove file
+javac <Classroom>.java // complie
+java <classroom> // Run
